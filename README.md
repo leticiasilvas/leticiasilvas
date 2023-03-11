@@ -16,4 +16,4 @@ Here are some ideas to get you started: jhhh
 -->
 
 
-<a img src = "https://static4.depositphotos.com/1000454/272/i/600/depositphotos_2720255-stock-photo-cute-beagle-puppy.jpg" </a>
+<img src = "https://static4.depositphotos.com/1000454/272/i/600/depositphotos_2720255-stock-photo-cute-beagle-puppy.jpg">
